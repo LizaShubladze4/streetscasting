@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8be7c89b.css",
+    "main.js": "/static/js/main.8a84fdae.js",
+    "static/media/tinamainpage.png": "/static/media/tinamainpage.f5a20d13100c3ac19de8.png",
+    "static/media/TINA.jpg": "/static/media/TINA.2cf058b820fae8adffae.jpg",
+    "static/media/SANI.jpg": "/static/media/SANI.3ac15ca85f32b6a05184.jpg",
+    "static/media/JOJO.jpg": "/static/media/JOJO.0cddf132905131a4554b.jpg",
+    "static/media/SATO.jpg": "/static/media/SATO.7d5d11e28ac54e25d1d3.jpg",
+    "static/media/DESTINY.jpg": "/static/media/DESTINY.c5049420231b7e5fd6b8.jpg",
+    "static/media/MISA.jpg": "/static/media/MISA.f9b88ef757e36b084896.jpg",
+    "static/media/MANISH.jpg": "/static/media/MANISH.703d2d578bb01a67afd0.jpg",
+    "static/media/ELENI.jpg": "/static/media/ELENI.423d1dccda3cc394133e.jpg",
+    "static/media/ANDRIA.jpg": "/static/media/ANDRIA.00a26b3106c21c707330.jpg",
+    "static/media/SALOME.jpg": "/static/media/SALOME.3ea3462ad806e2a24f1d.jpg",
+    "static/media/NIKA.jpg": "/static/media/NIKA.52751ffbb037cd8d58cd.jpg",
+    "static/media/TEMO.jpg": "/static/media/TEMO.bb4c9b1541e539d5b6bf.jpg",
+    "static/media/MARIA.jpg": "/static/media/MARIA.6b15228b8f49b3bbe733.jpg",
+    "static/media/Xenku-ItalicDemo.otf": "/static/media/Xenku-ItalicDemo.8c146cbb028a05a6b480.otf",
+    "static/media/Xenku-DisplayDemo.otf": "/static/media/Xenku-DisplayDemo.6b9067ee1cb8c1ee333c.otf",
+    "index.html": "/index.html",
+    "main.8be7c89b.css.map": "/static/css/main.8be7c89b.css.map",
+    "main.8a84fdae.js.map": "/static/js/main.8a84fdae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8be7c89b.css",
+    "static/js/main.8a84fdae.js"
+  ]
+}

@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Xenku';
+  src: url('./fonts/Xenku-DisplayDemo.otf') format('otf'),
+       url('./fonts/Xenku-ItalicDemo.otf') format('otf');
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Xenku', sans-serif; 
+  color: #ff4900;
+  text-align: center;
+  background-color: #141414;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+}
+
+a:hover {
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+}
+
+p {
+  letter-spacing: -2px;
+  font-size: xx-large;
+  margin-top: 10%;
+}

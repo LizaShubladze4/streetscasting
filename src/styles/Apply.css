@@ -1,0 +1,43 @@
+.apply-page {
+    background-image: url('/src/assets/FRONTPAGE/tinamainpage.png');
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.apply-header h1 {
+    font-size: 6.3vw;
+    margin-top: 3%;
+    letter-spacing: -9px;
+}
+
+.form h2 {
+    letter-spacing: -5.5px;
+}
+
+.form {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 767px) {
+    .apply-page {
+        letter-spacing: -1px;
+    }
+    .apply-header h1 {
+        margin-top: 50%;
+        letter-spacing: -2.5px;
+        font-size: 7.5vw;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .apply-header h1 {
+        margin-top: 30%;
+        font-size: 7.5vw;
+    }
+}
